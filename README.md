@@ -15,8 +15,7 @@
 
   ### Colaborador (RFC)
   - **RFC 01**: O colaborador deve poder criar uma justificativa de ponto, informando o dia, horário (entrada/almoço/saída), e o motivo da justificativa.
-  - **RFC 02**: O colaborador deve poder visualizar todas as suas justificativas de ponto.
-  - **RFC 03**: O colaborador deve poder editar uma justificativa de ponto.
+  - **RFC 02**: O colaborador deve poder visualizar as suas justificativas de ponto dos últimos 3 meses.
 
   ### Gerente (RFG)
   - **RFG 01**: O gerente deve receber uma notificação quando uma justificativa de ponto for criada.
